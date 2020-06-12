@@ -10,11 +10,13 @@ Notions abordées:
  - ECDF,
  - Chi-Squared and Kolmogorov-Smirnov tests.
 
+---
 
  - Si un estimateur est non biaisé, sa variance est égale à sa MSE
  - La variance mesure la précision de l'estimateur.
  - Le biais mesure son exactitude.
  - Un estimateur avec une bonne MSE à une petite variance et un petit biais.
 
+---
 
  - Revoir les calculs de variance.
