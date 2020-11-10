@@ -4,19 +4,19 @@ Le rendu final `RAPPORT.html` (compilation de `RAPPORT.Rmd`) est le résultat de
 
 Consulter mes sources bibliographiques dans le fichier `NOTES.md`.
 
-Notions abordées:
+### Notions abordées:
  - Comparaisons d'estimateurs: moment, médiane empirique, EMV, EVMU.
  - Biais, consistance, efficacité, intervalle de confiance.
  - ECDF,
  - Chi-Squared and Kolmogorov-Smirnov tests.
 
----
+### Notes
 
  - Si un estimateur est non biaisé, sa variance est égale à sa MSE
  - La variance mesure la précision de l'estimateur.
  - Le biais mesure son exactitude.
  - Un estimateur avec une bonne MSE à une petite variance et un petit biais.
 
----
+### TODOs
 
  - Revoir les calculs de variance.
